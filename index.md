@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<h1 class="name glitch" data-text="Makgill">Wakgill</h1>
 <div class="language-plaintext highlighter-rouge" style="
     background-color: #302d36;
     padding: .75rem;
