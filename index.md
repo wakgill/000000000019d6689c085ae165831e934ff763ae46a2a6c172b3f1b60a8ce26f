@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="language-plaintext highlighter-rouge" style="
-    background-color: #302d36;
+    background-color: #111;
     padding: .75rem;
     margin-top: 0;
     margin-bottom: .75rem;
