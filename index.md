@@ -10,6 +10,7 @@ layout: default
     overflow-x: auto;
     border-radius: 4px;
     box-shadow: none;
+    margin: 10px;
     -webkit-overflow-scrolling: touch;
 "><div class="highlight"><pre class="name glitch" data-text="00000000   01 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
 00000010   00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00   ................
